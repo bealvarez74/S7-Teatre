@@ -1,7 +1,7 @@
 const linies = [
 
    {id:"1",
-    linia:"Hola Romeo."
+    linia:"Hola Romeo"
    },
 
    {id:"2",
